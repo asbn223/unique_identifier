@@ -1,0 +1,12 @@
+.dart_tool/
+android/.idea
+example/.idea
+example/example.iml
+example/android/example_android.iml
+.packages
+.flutter-plugins-dependencies
+example/android/gradle/wrapper/gradle-wrapper.jar
+example/android/gradlew
+example/android/gradlew.bat
+example/pubspec.lock
+example/unique_identifier_example.iml
